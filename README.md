@@ -17,10 +17,7 @@ Installation
 * Click `Load unpacked extension...`
 * Locate and select the directory with the `manifest.json` file in it
 
-Currently requires Chrome 33+ (Beta) for OSX.  Linux/Windows are untested.  Related OSX patches that are not in 32 (Stable):
-
-* (https://codereview.chromium.org/40163002)
-* (https://codereview.chromium.org/40183002)
+Currently requires Chrome 33+ for OSX.  Linux/Windows are untested.
 
 Hacking
 -------
