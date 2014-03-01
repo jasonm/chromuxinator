@@ -88,4 +88,4 @@ License
 
 See [MIT-LICENSE](./MIT-LICENSE)
 
-[http://www.iconarchive.com/show/vintage-kitchen-icons-by-greg-barnes/StandMixer-icon.html]( Stand mixer icon by Greg Barnes. )
+[Stand mixer icon by Greg Barnes.](http://www.iconarchive.com/show/vintage-kitchen-icons-by-greg-barnes/StandMixer-icon.html)
